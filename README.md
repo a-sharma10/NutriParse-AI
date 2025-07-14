@@ -1,5 +1,5 @@
 Understanding and interpreting nutrition labels can be challenging for consumers. In this project, we develop a system that combines image Vision-Language Models (VLMs) and Large Language Models (LLMs) to automatically extract text from nutrition labels and answer users’ queries using the variety of information provided. In addition to real images of nutrition labels, we also created a dataset of synthetically generated images with labels to evaluate the OCR (Optical Character Recognition) model. Our pipeline makes use of the “Phi-3-Vision-128k-Instruct Model” created by Microsoft to do OCR, and is then followed by the “Llama-3.2-1B LLM” and “Llama-2-7B-chat-hf” created by Meta to generate natural language explanations and answers to user queries about the label contents.
 
-Full Pipeline Manual Inspection Results: [Link](https://docs.google.com/spreadsheets/d/1vQ_EO6dYwCICO9hS5pPro6yXNq4ofnTvv7_wABWmTVk/edit?gid=0#gid=0)
+Full Pipeline Manual Inspection Results: [Link](https://docs.google.com/spreadsheets/d/1IK107m1tpx7qvfoV3QrP-QNpQ05KTte0rcO-lkZVu7c/edit?usp=sharing)
 
-OCR Validation Results: [Link](https://docs.google.com/document/d/1AnL1Fry-k3fEY_cvvhROPNkcnhn-K776xxcwhbNdFvQ/edit?tab=t.0)
+OCR Validation Results: [Link](https://docs.google.com/document/d/12tGfixVd_ZY7nhK8dQ9LeUrYPnaw7m1VQVyVBuCIukw/edit?usp=sharing)
